@@ -1,0 +1,7 @@
+{
+  "name": "Bai4-Tongquanweb",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.2"
+  }
+}
